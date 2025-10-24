@@ -1,6 +1,6 @@
 .main-header {
   background-color: #0d3c63;
-  color: #fff;
+  color: #ffff;
   font-family: Arial, sans-serif; height: 200px;
 }
 
@@ -94,4 +94,5 @@ margin-left: 0;}
 /* Menampilkan dropdown saat kursor mengarah ke item menu */
 .dropdown:hover .dropdown-menu {
   display: block;
+
 }
