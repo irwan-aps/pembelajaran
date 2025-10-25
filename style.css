@@ -5,7 +5,7 @@
 }
 /* Styling untuk bagian logo dan teks */
 .logo-section {
-  display: flex;
+  display: flex;justify-items: center;
 }
 
 .logo-section img {
@@ -88,6 +88,7 @@ margin-left: 0;}
   display: block;
 
 }
+
 
 
 
