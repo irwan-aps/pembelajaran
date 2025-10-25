@@ -7,9 +7,7 @@
 
 .header-container {
   display: flex;
-  align-items:center;
-  justify-content: space-between;
-  padding: 20px 20px;
+  
 }
 
 /* Styling untuk bagian logo dan teks */
@@ -97,6 +95,7 @@ margin-left: 0;}
   display: block;
 
 }
+
 
 
 
