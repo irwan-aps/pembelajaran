@@ -8,13 +8,13 @@
 /* Styling untuk bagian logo dan teks */
 .logo-section {
   display: flex;
-  align-items: center;
+  align-items: center; padding: 5px 5px;
 }
 
 .logo-section img {
   width: 100px;
   height: 100px;
-  margin-right: 5px;
+  margin-right: 5px;padding: 5px 5 px;
 }
 
 .header-text {
@@ -90,6 +90,7 @@ margin-left: 0;}
   display: block;
 
 }
+
 
 
 
