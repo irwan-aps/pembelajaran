@@ -1,8 +1,11 @@
-.main-header {
+body, html {
+  margin: 0;
+  padding: 0;
+}
+.main-header {width:100%
   background-color: #0d3c63;
   color: #ffff;
-  font-family: Arial, sans-serif; height: 200px; wudth: 100%;
-  margin:0px; padding: 0px;
+  font-family: Arial, sans-serif; height: 200px; padding: 20px;
 }
 
 /* Styling untuk bagian logo dan teks */
@@ -90,6 +93,7 @@ margin-left: 0;}
   display: block;
 
 }
+
 
 
 
