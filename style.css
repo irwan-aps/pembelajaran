@@ -28,7 +28,7 @@ body, html {
 
 /* Styling untuk search bar */
 .search-section input {
-  align-items: center; justify-items: center;
+  padding: 8px 10px;
   border: none;
   border-radius: 20px;
   background-color: #f0f2f5;
@@ -93,6 +93,7 @@ margin-left: 0;}
   display: block;
 
 }
+
 
 
 
