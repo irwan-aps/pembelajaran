@@ -1,7 +1,7 @@
 .main-header {
   background-color: #0d3c63;
   color: #ffff;
-  font-family: Arial, sans-serif; height: 200px; wudth: 100%;background-position: fixed;
+  font-family: Arial, sans-serif; height: 200px; wudth: 100%;background-position:absolute;
 }
 
 .header-container {
@@ -96,6 +96,7 @@ margin-left: 0;}
   display: block;
 
 }
+
 
 
 
