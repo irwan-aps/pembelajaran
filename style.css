@@ -1,7 +1,7 @@
 .main-header {
   background-color: #0d3c63;
   color: #fff;
-  font-family: Arial, sans-serif; height: 200px;width:1200px;position: relative;
+  font-family: Arial, sans-serif; height: 200px;width:1000px;position: fixed;
 }
 
 .header-container {
@@ -95,4 +95,5 @@ margin-left: 0;}
 .dropdown:hover .dropdown-menu {
   display: block;
 }
+
 
